@@ -22,7 +22,7 @@
 					<flowInitContext>
 						<masterBranchName>master</masterBranchName>
 						<developBranchName>develop</developBranchName>
-						<featureBranchPrefix>feature-</featureBranchPrefix>
+						<featureBranchPrefix>feature/</featureBranchPrefix>
 						<releaseBranchPrefix>release-</releaseBranchPrefix>
 						<hotfixBranchPrefix>hotfix-</hotfixBranchPrefix>
 						<versionTagPrefix>release_</versionTagPrefix>
