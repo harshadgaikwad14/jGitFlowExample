@@ -20,7 +20,8 @@
 				<version>${jgitflow-maven.version}</version>
 				<configuration>
 					<flowInitContext>
-						<!-- <masterBranchName>master</masterBranchName> <developBranchName>develop</developBranchName> -->
+						<masterBranchName>master</masterBranchName>
+						<developBranchName>develop</developBranchName>
 						<featureBranchPrefix>feature-</featureBranchPrefix>
 						<releaseBranchPrefix>release-</releaseBranchPrefix>
 						<hotfixBranchPrefix>hotfix-</hotfixBranchPrefix>
@@ -29,6 +30,8 @@
 					<autoVersionSubmodules>true</autoVersionSubmodules>
 					<noDeploy>true</noDeploy>
 					<allowUntracked>true</allowUntracked>
+					<squash>true</squash>
+					<scmCommentPrefix>[RELEASE] </scmCommentPrefix>
 				</configuration>
 			</plugin>
 
