@@ -24,8 +24,8 @@
 						<masterBranchName>master</masterBranchName>
 						<developBranchName>develop</developBranchName>
 						<featureBranchPrefix>feature/</featureBranchPrefix>
-						<releaseBranchPrefix>release-</releaseBranchPrefix>
-						<hotfixBranchPrefix>hotfix-</hotfixBranchPrefix>
+						<releaseBranchPrefix>release/</releaseBranchPrefix>
+						<hotfixBranchPrefix>hotfix/</hotfixBranchPrefix>
 						<versionTagPrefix>release_</versionTagPrefix>
 					</flowInitContext>
 					<autoVersionSubmodules>true</autoVersionSubmodules>

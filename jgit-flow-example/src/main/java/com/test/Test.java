@@ -4,7 +4,7 @@ public class Test {
 
 	public static void main(String[] args) {
 	
-		System.out.println("Jgit Flow Test 1");
+		System.out.println("Jgit Flow Third Hot Fix");
 
 	}
 
