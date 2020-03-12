@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.test</groupId>
 	<artifactId>jgit-flow-example</artifactId>
-	<version>3.0.0</version>
+	<version>3.0.1-hotfix</version>
 
 	<properties>
 		<jgitflow-maven.version>1.0-m5.1</jgitflow-maven.version>
