@@ -14,6 +14,7 @@ public class Test {
 		System.out.println("*** 69 ***");
 		System.out.println("*** FEATURE-03-Hotfix ***");
 		System.out.println("*** Giving HotFix For Feature-03");
+		System.out.println("*** Release Process Added In ReadMe File ***");
 
 	}
 
